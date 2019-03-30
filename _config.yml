@@ -1,26 +1,26 @@
 # Site settings
 title: "Zombyte Blog"
 email: noreply@zombyte.net
-description: "A blog for Zombyte style ranting and cookies"
+description: "A blog for Zombyte variety of ranting and cookies"
 baseurl: ""
 url: "https://zombyte.net"
 title_description: "Things and Cookies"
 title_image: "http://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
-#google_analytics: "UA-20365477-4"
-#disqus_account: cartenoire
-#github_repository: https://github.com/jacobtomlinson/carte-noire
-#addthis_id: ra-513c6fa83da6ec67
-#post_limit: 5
+# google_analytics: "UA-20365477-4"
+# disqus_account: zombyte
+github_repository: https://github.com/zombyte/zombyte.github.io
+# addthis_id: ra-513c6fa83da6ec67
+# post_limit: 5
 
 # Social usernames/URLs
 twitter_username: zombyte_13
 github_username:  zombyte
-#linkedin_link: http://carte-noire.jacobtomlinson.co.uk/
-#google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
-#stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
+# linkedin_link: http://carte-noire.jacobtomlinson.co.uk/
+# google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
+# stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
 
 # Footer
-footer_left: "Made  by <a href=\"https://twitter.com/zombyte_\">Zombyte</a>"
+footer_left: "Articles  by <a href=\"https://twitter.com/zombyte_13\">Zombyte</a> and presented with <a href=\"https://github.com/jacobtomlinson/carte-noire\\">Carte-Noire</a>."
 footer_right: "&lt;/&gt; on <a href=\"https://github.com/zombyte\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
