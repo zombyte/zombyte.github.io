@@ -20,7 +20,7 @@ github_username:  zombyte
 # stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
 
 # Footer
-footer_left: "Articles  by <a href=\"https://twitter.com/zombyte_13\">Zombyte</a> and presented with <a href=\"https://github.com/jacobtomlinson/carte-noire\">Carte-Noire</a>."
+footer_left: "Articles  by <a href=\"https://twitter.com/zombyte_13\">Zombyte</a>."
 footer_right: "Jekyll Theme: <a href=\"https://github.com/jacobtomlinson/carte-noire\">Carte-Noire</a>"
 
 # Build settings
