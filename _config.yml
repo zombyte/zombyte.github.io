@@ -21,7 +21,7 @@ github_username:  zombyte
 
 # Footer
 footer_left: "Articles  by <a href=\"https://twitter.com/zombyte_13\">Zombyte</a> and presented with <a href=\"https://github.com/jacobtomlinson/carte-noire\">Carte-Noire</a>."
-footer_right: "&lt;/&gt; on <a href=\"https://github.com/zombyte\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+footer_right: "Jekyll Theme: <a href=\"https://github.com/jacobtomlinson/carte-noire\">Carte-Noire</a>"
 
 # Build settings
 markdown: redcarpet
